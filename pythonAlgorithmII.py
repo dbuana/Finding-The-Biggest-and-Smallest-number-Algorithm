@@ -41,5 +41,3 @@ def checking_the_numbers():
 
 print(arranging_arrays())
 print(checking_the_numbers())
-
-# The algorithm worked swell!
